@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Saim Ramzan and I'm a Font-End-Developer, from Faisalabad </h2>
+<h2 align="left">Hi 👋! My name is Saim Ramzan and I'm a Font-End-Developer</h2>
 
 ###
 
